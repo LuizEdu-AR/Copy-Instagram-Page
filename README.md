@@ -5,4 +5,4 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ### Description
-Copying the "Instagram" login page using HTML5 markup and CSS# manipulation
+Copying the "Instagram" login page using HTML5 markup and CSS3 manipulation
